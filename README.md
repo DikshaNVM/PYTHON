@@ -2,5 +2,5 @@
 This repository contains my Python learning journey.
 
 ## Folders
--Coding_Exercises
--Projects
+- Coding_Exercises
+- Projects
